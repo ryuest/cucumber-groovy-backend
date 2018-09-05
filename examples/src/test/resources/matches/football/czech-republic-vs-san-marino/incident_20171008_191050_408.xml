@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<incidentUpdate xmlns="http://caerus.williamhill.com/scoreboards/incident" id="cf1c326e-3165-476b-b1e8-a8df4acb15e0"
+                manualControl="N" source="Running Ball" timeStamp="2017-10-08T18:10:50.405+00:00">
+    <sport name="Football">
+        <event id="11663827" name="Czech Rep. vs San Marino" sequence="5" startTime="2017-10-08T18:45:00.000+00:00"
+               type="World Cup 2018 - European Qualifiers">
+            <footballSummary>
+                <team corners="0" freekicks="0" goals="0" name="Czech Rep." penalties="0" red_cards="0"
+                      shots_on_target="0" shots_on_woodwork="0" side="Home" throw_ins="0" yellow_cards="0"/>
+                <team corners="0" freekicks="0" goals="0" name="San Marino" penalties="0" red_cards="0"
+                      shots_on_target="0" shots_on_woodwork="0" side="Away" throw_ins="0" yellow_cards="0"/>
+            </footballSummary>
+            <footballLineUp>
+                <home>
+                    <footballLineUpPlayer name="P. Kade&amp;#345;&amp;#225;bek" shirt="2" starting="Y"/>
+                    <footballLineUpPlayer name="T. Kalas" shirt="3" starting="Y"/>
+                    <footballLineUpPlayer name="M. L&amp;#252;ftner" shirt="6" starting="Y"/>
+                    <footballLineUpPlayer name="V. Darida" shirt="8" starting="Y"/>
+                    <footballLineUpPlayer name="B. Do&amp;#269;kal" shirt="9" starting="Y"/>
+                    <footballLineUpPlayer name="M. Krmen&amp;#269;&amp;#237;k" shirt="11" starting="Y"/>
+                    <footballLineUpPlayer name="J. Kopic" shirt="13" starting="Y"/>
+                    <footballLineUpPlayer name="J. Jankto" shirt="14" starting="Y"/>
+                    <footballLineUpPlayer name="T. Koubek" shirt="16" starting="Y"/>
+                    <footballLineUpPlayer name="A. Bar&amp;#225;k" shirt="20" starting="Y"/>
+                    <footballLineUpPlayer name="F. Nov&amp;#225;k" shirt="22" starting="Y"/>
+                    <footballLineUpPlayer name="T. Vacl&amp;#237;k" shirt="1" starting="N"/>
+                    <footballLineUpPlayer name="J. S&amp;#253;kora" shirt="4" starting="N"/>
+                    <footballLineUpPlayer name="J. Brabec" shirt="5" starting="N"/>
+                    <footballLineUpPlayer name="J. Zmrhal" shirt="7" starting="N"/>
+                    <footballLineUpPlayer name="S. Falta" shirt="12" starting="N"/>
+                    <footballLineUpPlayer name="T. Sou&amp;#269;ek" shirt="15" starting="N"/>
+                    <footballLineUpPlayer name="M. Such&amp;#253;" shirt="17" starting="N"/>
+                    <footballLineUpPlayer name="J. Bo&amp;#345;il" shirt="18" starting="N"/>
+                    <footballLineUpPlayer name="J. Kliment" shirt="19" starting="N"/>
+                    <footballLineUpPlayer name="V. Kadlec" shirt="21" starting="N"/>
+                    <footballLineUpPlayer name="J. Pavlenka" shirt="23" starting="N"/>
+                </home>
+                <away>
+                    <footballLineUpPlayer name="A. Simoncini" shirt="1" starting="Y"/>
+                    <footballLineUpPlayer name="M. Battistini" shirt="4" starting="Y"/>
+                    <footballLineUpPlayer name="F. Vitaioli" shirt="5" starting="Y"/>
+                    <footballLineUpPlayer name="M. Palazzi" shirt="6" starting="Y"/>
+                    <footballLineUpPlayer name="M. Bernardi" shirt="9" starting="Y"/>
+                    <footballLineUpPlayer name="A. Della Valle" shirt="13" starting="Y"/>
+                    <footballLineUpPlayer name="C. Brolli" shirt="15" starting="Y"/>
+                    <footballLineUpPlayer name="D. Rinaldi" shirt="16" starting="Y"/>
+                    <footballLineUpPlayer name="F. Berardi" shirt="18" starting="Y"/>
+                    <footballLineUpPlayer name="A. Grandoni" shirt="20" starting="Y"/>
+                    <footballLineUpPlayer name="D. Cesarini" shirt="2" starting="N"/>
+                    <footballLineUpPlayer name="M. Berardi" shirt="3" starting="N"/>
+                    <footballLineUpPlayer name="A. Golinucci" shirt="7" starting="N"/>
+                    <footballLineUpPlayer name="G. Bonini" shirt="8" starting="N"/>
+                    <footballLineUpPlayer name="M. Berretti" shirt="10" starting="N"/>
+                    <footballLineUpPlayer name="P. Calzolari" shirt="11" starting="N"/>
+                    <footballLineUpPlayer name="G. Muraccini" shirt="12" starting="N"/>
+                    <footballLineUpPlayer name="A. Zavoli" shirt="14" starting="N"/>
+                    <footballLineUpPlayer name="J. Biordi" shirt="17" starting="N"/>
+                    <footballLineUpPlayer name="M. Manzaroli" shirt="23" starting="N"/>
+                </away>
+            </footballLineUp>
+        </event>
+    </sport>
+    <guid key="MESSAGE_ID" value="688ac2b9-6f0d-4cf3-b2f0-a918a12c0f22"/>
+    <guid key="TIMING_METADATA_ID" value="feedId=5,externalMatchId=872135"/>
+    <guid key="ROUTING_METADATA_ID" value="externalMatchId=872135,caerusMatchId=d9e41f6e-931d-11e7-97bd-0017a477140c"/>
+</incidentUpdate>

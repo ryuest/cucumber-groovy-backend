@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<incidentUpdate xmlns="http://caerus.williamhill.com/scoreboards/incident" id="dbadc621-ef47-4468-9dd8-6c8de77305a5"
+                manualControl="N" source="Running Ball" timeStamp="2016-07-02T18:05:49.701+00:00">
+    <sport name="Football">
+        <event id="9519484" name="Germany vs Italy" sequence="5" startTime="2016-07-02T19:00:00.000+00:00"
+               type="Euro 2016">
+            <footballSummary>
+                <team corners="0" freekicks="0" goals="0" name="Germany" penalties="0" red_cards="0" shots_on_target="0"
+                      shots_on_woodwork="0" side="Home" throw_ins="0" yellow_cards="0"/>
+                <team corners="0" freekicks="0" goals="0" name="Italy" penalties="0" red_cards="0" shots_on_target="0"
+                      shots_on_woodwork="0" side="Away" throw_ins="0" yellow_cards="0"/>
+            </footballSummary>
+            <footballLineUp>
+                <home>
+                    <footballLineUpPlayer name="M. Neuer" shirt="1" starting="Y"/>
+                    <footballLineUpPlayer name="J. Hector" shirt="3" starting="Y"/>
+                    <footballLineUpPlayer name="B. H&amp;#246;wedes" shirt="4" starting="Y"/>
+                    <footballLineUpPlayer name="M. Hummels" shirt="5" starting="Y"/>
+                    <footballLineUpPlayer name="S. Khedira" shirt="6" starting="Y"/>
+                    <footballLineUpPlayer name="M. &amp;#214;zil" shirt="8" starting="Y"/>
+                    <footballLineUpPlayer name="T. M&amp;#252;ller" shirt="13" starting="Y"/>
+                    <footballLineUpPlayer name="J. Boateng" shirt="17" starting="Y"/>
+                    <footballLineUpPlayer name="T. Kroos" shirt="18" starting="Y"/>
+                    <footballLineUpPlayer name="J. Kimmich" shirt="21" starting="Y"/>
+                    <footballLineUpPlayer name="M. G&amp;#243;mez" shirt="23" starting="Y"/>
+                    <footballLineUpPlayer name="S. Mustafi" shirt="2" starting="N"/>
+                    <footballLineUpPlayer name="B. Schweinsteiger" shirt="7" starting="N"/>
+                    <footballLineUpPlayer name="A. Sch&amp;#252;rrle" shirt="9" starting="N"/>
+                    <footballLineUpPlayer name="L. Podolski" shirt="10" starting="N"/>
+                    <footballLineUpPlayer name="J. Draxler" shirt="11" starting="N"/>
+                    <footballLineUpPlayer name="B. Leno" shirt="12" starting="N"/>
+                    <footballLineUpPlayer name="E. Can" shirt="14" starting="N"/>
+                    <footballLineUpPlayer name="J. Weigl" shirt="15" starting="N"/>
+                    <footballLineUpPlayer name="J. Tah" shirt="16" starting="N"/>
+                    <footballLineUpPlayer name="M. G&amp;#246;tze" shirt="19" starting="N"/>
+                    <footballLineUpPlayer name="L. San&amp;#233;" shirt="20" starting="N"/>
+                    <footballLineUpPlayer name="M. ter Stegen" shirt="22" starting="N"/>
+                </home>
+                <away>
+                    <footballLineUpPlayer name="G. Buffon" shirt="1" starting="Y"/>
+                    <footballLineUpPlayer name="M. De Sciglio" shirt="2" starting="Y"/>
+                    <footballLineUpPlayer name="G. Chiellini" shirt="3" starting="Y"/>
+                    <footballLineUpPlayer name="A. Florenzi" shirt="8" starting="Y"/>
+                    <footballLineUpPlayer name="G. Pell&amp;#232;" shirt="9" starting="Y"/>
+                    <footballLineUpPlayer name="S. Sturaro" shirt="14" starting="Y"/>
+                    <footballLineUpPlayer name="A. Barzagli" shirt="15" starting="Y"/>
+                    <footballLineUpPlayer name="E. Martins" shirt="17" starting="Y"/>
+                    <footballLineUpPlayer name="M. Parolo" shirt="18" starting="Y"/>
+                    <footballLineUpPlayer name="L. Bonucci" shirt="19" starting="Y"/>
+                    <footballLineUpPlayer name="E. Giaccherini" shirt="23" starting="Y"/>
+                    <footballLineUpPlayer name="M. Darmian" shirt="4" starting="N"/>
+                    <footballLineUpPlayer name="A. Ogbonna" shirt="5" starting="N"/>
+                    <footballLineUpPlayer name="A. Candreva" shirt="6" starting="N"/>
+                    <footballLineUpPlayer name="S. Zaza" shirt="7" starting="N"/>
+                    <footballLineUpPlayer name="C. Immobile" shirt="11" starting="N"/>
+                    <footballLineUpPlayer name="S. Sirigu" shirt="12" starting="N"/>
+                    <footballLineUpPlayer name="F. Marchetti" shirt="13" starting="N"/>
+                    <footballLineUpPlayer name="D. De Rossi" shirt="16" starting="N"/>
+                    <footballLineUpPlayer name="L. Insigne" shirt="20" starting="N"/>
+                    <footballLineUpPlayer name="F. Bernardeschi" shirt="21" starting="N"/>
+                    <footballLineUpPlayer name="S. El Shaarawy" shirt="22" starting="N"/>
+                </away>
+            </footballLineUp>
+        </event>
+    </sport>
+    <guid key="MESSAGE_ID" value="02c1ec22-e51e-4695-a963-4500268173be"/>
+    <guid key="TIMING_METADATA_ID" value="feedId=5,externalMatchId=684883"/>
+    <guid key="ROUTING_METADATA_ID" value="externalMatchId=684883,caerusMatchId=a0308a77-3bd4-11e6-8ff5-0017a4772014"/>
+</incidentUpdate>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+
+    <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+        <layout class="ch.qos.logback.classic.PatternLayout">
+            <Pattern>%boldGreen(%date{yyyy-MM-dd HH:mm:ss.SSS}) %boldBlue(%-5level) %boldCyan(%35.35thread{20}) %boldYellow(%27.27logger{30}) - %boldWhite(%msg%n)</Pattern>
+        </layout>
+    </appender>
+
+    <logger name="ch.qos.logback" level="ERROR"/>
+
+    <root level="debug">
+        <appender-ref ref="STDOUT" />
+    </root>
+
+</configuration>

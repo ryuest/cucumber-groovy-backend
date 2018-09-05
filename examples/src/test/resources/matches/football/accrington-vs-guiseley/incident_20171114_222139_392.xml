@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<incidentUpdate xmlns="http://caerus.williamhill.com/scoreboards/incident" id="008bfb2b-6427-49b3-b2d8-7e2884573d85"
+                manualControl="N" source="Running Ball" timeStamp="2017-11-14T22:21:39.388+00:00">
+    <sport name="Football">
+        <event id="11977922" name="Accrington vs Guiseley" sequence="452" startTime="2017-11-14T19:45:00.000+00:00"
+               type="English FA Cup">
+            <footballSummary>
+                <team corners="14" freekicks="25" goals="1" name="Accrington" penalties="0" red_cards="0"
+                      shots_on_target="13" shots_on_woodwork="2" side="Home" throw_ins="34" yellow_cards="1"/>
+                <team corners="5" freekicks="14" goals="1" name="Guiseley" penalties="1" red_cards="1"
+                      shots_on_target="3" shots_on_woodwork="0" side="Away" throw_ins="32" yellow_cards="5"/>
+            </footballSummary>
+            <incident operation="Add">
+                <id>2f14795a-c98a-11e7-aaf6-0017a477140c</id>
+                <type>Start Penalty Shootout, First Penalty:</type>
+                <period>Penalty Shootout</period>
+                <time>7200</time>
+                <scope>Home</scope>
+                <timeStamp>2017-11-14T22:21:39.388+00:00</timeStamp>
+            </incident>
+            <incident operation="Add">
+                <id>2f147959-c98a-11e7-aaf6-0017a477140c</id>
+                <type>Start Penalty Shootout</type>
+                <period>Penalty Shootout</period>
+                <time>7200</time>
+                <scope>Match</scope>
+                <timeStamp>2017-11-14T22:21:39.388+00:00</timeStamp>
+            </incident>
+        </event>
+    </sport>
+    <guid key="MESSAGE_ID" value="e5d31137-abf1-4000-b652-3bea4b75c842"/>
+    <guid key="TIMING_METADATA_ID" value="feedId=5,externalMatchId=903770"/>
+    <guid key="ROUTING_METADATA_ID" value="externalMatchId=903770,caerusMatchId=1a526a9a-c486-11e7-be81-0017a4771c04"/>
+</incidentUpdate>

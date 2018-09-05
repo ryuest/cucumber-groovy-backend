@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<incidentUpdate xmlns="http://caerus.williamhill.com/scoreboards/incident" id="891738db-b032-4df9-9d23-9c2a4e1f49be"
+                manualControl="N" source="Running Ball" timeStamp="2017-11-14T21:03:21.941+00:00">
+    <sport name="Football">
+        <event id="11977922" name="Accrington vs Guiseley" sequence="17" startTime="2017-11-14T19:45:00.000+00:00"
+               type="English FA Cup">
+            <footballSummary>
+                <team corners="5" freekicks="13" goals="1" name="Accrington" penalties="0" red_cards="0"
+                      shots_on_target="6" shots_on_woodwork="2" side="Home" throw_ins="13" yellow_cards="0"/>
+                <team corners="3" freekicks="6" goals="0" name="Guiseley" penalties="0" red_cards="1"
+                      shots_on_target="3" shots_on_woodwork="0" side="Away" throw_ins="18" yellow_cards="3"/>
+            </footballSummary>
+            <incident operation="Add">
+                <id>3f2b47cf-c97f-11e7-aaf6-0017a477140c</id>
+                <type>Free Kick</type>
+                <period>2nd Half</period>
+                <time>3566</time>
+                <scope>Away</scope>
+                <timeStamp>2017-11-14T21:03:21.941+00:00</timeStamp>
+            </incident>
+        </event>
+    </sport>
+    <guid key="MESSAGE_ID" value="6fc7b78e-9dd3-4a8c-8a8a-08b999df02fc"/>
+    <guid key="TIMING_METADATA_ID" value="feedId=5,externalMatchId=903770"/>
+    <guid key="ROUTING_METADATA_ID" value="externalMatchId=903770,caerusMatchId=1a526a9a-c486-11e7-be81-0017a4771c04"/>
+</incidentUpdate>

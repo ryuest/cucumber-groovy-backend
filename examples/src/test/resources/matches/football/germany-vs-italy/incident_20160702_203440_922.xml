@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<incidentUpdate xmlns="http://caerus.williamhill.com/scoreboards/incident" id="90ee1a84-6f6b-4d32-b747-239911b0b5c0"
+                manualControl="N" source="Running Ball" timeStamp="2016-07-02T19:34:40.919+00:00">
+    <sport name="Football">
+        <event id="9519484" name="Germany vs Italy" sequence="7" startTime="2016-07-02T19:00:00.000+00:00"
+               type="Euro 2016">
+            <footballSummary>
+                <team corners="1" freekicks="2" goals="0" name="Germany" penalties="0" red_cards="0" shots_on_target="0"
+                      shots_on_woodwork="0" side="Home" throw_ins="10" yellow_cards="0"/>
+                <team corners="2" freekicks="6" goals="0" name="Italy" penalties="0" red_cards="0" shots_on_target="1"
+                      shots_on_woodwork="0" side="Away" throw_ins="8" yellow_cards="0"/>
+            </footballSummary>
+            <incident operation="Add">
+                <id>0536b7df-408c-11e6-99ad-0017a477140c</id>
+                <type>Throw In</type>
+                <period>1st Half</period>
+                <time>1898</time>
+                <scope>Away</scope>
+                <timeStamp>2016-07-02T19:34:40.919+00:00</timeStamp>
+            </incident>
+        </event>
+    </sport>
+    <guid key="MESSAGE_ID" value="6e8b0134-0c71-4b3b-9ad2-ce12d8bed892"/>
+    <guid key="TIMING_METADATA_ID" value="feedId=5,externalMatchId=684883"/>
+    <guid key="ROUTING_METADATA_ID" value="externalMatchId=684883,caerusMatchId=a0308a77-3bd4-11e6-8ff5-0017a4772014"/>
+</incidentUpdate>

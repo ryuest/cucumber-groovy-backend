@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns4:tennisMessage timestamp="2017-11-23T10:29:24.544Z" xmlns:ns2="http://commentary.williamhill.com/contracts/common/v2-0/basiccompetition" xmlns="http://commentary.williamhill.com/contracts/tennis/v2-0/entities" xmlns:ns4="http://commentary.williamhill.com/contracts/tennis/v2-0/messages" xmlns:ns3="http://commentary.williamhill.com/contracts/tennis/v2-0/incidents" xmlns:ns5="http://commentary.williamhill.com/contracts/common/v2-0/basetypes">
+    <ns3:pointWon ns2:competitorRef="p2" source="BetRadar" timestamp="2017-11-23T10:29:24.557Z" matchRef="12045858" id="80990024"/>
+    <match phase="inPlay" name="Julia Stamatova vs Gebriela Mihaylova" setsToBePlayed="3" id="12045858">
+        <competitorList>
+            <competitor id="p1">
+                <participantDetails name="Julia Stamatova" id="p1"/>
+            </competitor>
+            <competitor id="p2">
+                <participantDetails name="Gebriela Mihaylova" id="p2"/>
+            </competitor>
+        </competitorList>
+        <playerServingFirst ns2:competitorRef="p2"/>
+        <nextServer ns2:competitorRef="p2"/>
+        <counterScore>
+            <counterCompetitorScore score="0" ns2:competitorRef="p1" id="BOGUS_ID"/>
+            <counterCompetitorScore score="1" ns2:competitorRef="p2" id="BOGUS_ID"/>
+        </counterScore>
+        <statistics>
+            <competitorStatistics ns2:competitorRef="p1" id="BOGUS_ID">
+                <numberOfAces value="0"/>
+                <numberOfDoubleFaults value="4"/>
+                <numberOfServicePoints value="46"/>
+                <numberOfServicePointsWon value="20"/>
+                <numberOfBreakPoints value="5"/>
+                <numberOfBreakPointsWon value="3"/>
+                <numberOfGamePoints value="0"/>
+                <numberOfGamePointsSaved value="0"/>
+                <numberOfSetPoints value="0"/>
+                <numberOfSetPointsSaved value="0"/>
+                <numberOfMatchPoints value="0"/>
+                <numberOfMatchPointsSaved value="0"/>
+                <totalPoints value="86"/>
+                <totalPointsWon value="41"/>
+            </competitorStatistics>
+            <competitorStatistics ns2:competitorRef="p2" id="BOGUS_ID">
+                <numberOfAces value="0"/>
+                <numberOfDoubleFaults value="0"/>
+                <numberOfServicePoints value="40"/>
+                <numberOfServicePointsWon value="19"/>
+                <numberOfBreakPoints value="11"/>
+                <numberOfBreakPointsWon value="5"/>
+                <numberOfGamePoints value="0"/>
+                <numberOfGamePointsSaved value="0"/>
+                <numberOfSetPoints value="0"/>
+                <numberOfSetPointsSaved value="0"/>
+                <numberOfMatchPoints value="0"/>
+                <numberOfMatchPointsSaved value="0"/>
+                <totalPoints value="86"/>
+                <totalPointsWon value="45"/>
+            </competitorStatistics>
+        </statistics>
+        <set id="1">
+            <winner ns2:competitorRef="p2"/>
+            <counterScore>
+                <counterCompetitorScore score="5" ns2:competitorRef="p1" id="BOGUS_ID"/>
+                <counterCompetitorScore score="7" ns2:competitorRef="p2" id="BOGUS_ID"/>
+            </counterScore>
+            <statistics>
+                <competitorStatistics ns2:competitorRef="p1" id="BOGUS_ID">
+                    <numberOfAces value="0"/>
+                    <numberOfDoubleFaults value="3"/>
+                    <numberOfServicePoints value="40"/>
+                    <numberOfServicePointsWon value="18"/>
+                    <numberOfBreakPoints value="5"/>
+                    <numberOfBreakPointsWon value="3"/>
+                    <numberOfGamePoints value="0"/>
+                    <numberOfGamePointsSaved value="0"/>
+                    <numberOfSetPoints value="0"/>
+                    <numberOfSetPointsSaved value="0"/>
+                    <numberOfMatchPoints value="0"/>
+                    <numberOfMatchPointsSaved value="0"/>
+                    <totalPoints value="73"/>
+                    <totalPointsWon value="37"/>
+                </competitorStatistics>
+                <competitorStatistics ns2:competitorRef="p2" id="BOGUS_ID">
+                    <numberOfAces value="0"/>
+                    <numberOfDoubleFaults value="0"/>
+                    <numberOfServicePoints value="33"/>
+                    <numberOfServicePointsWon value="14"/>
+                    <numberOfBreakPoints value="9"/>
+                    <numberOfBreakPointsWon value="4"/>
+                    <numberOfGamePoints value="0"/>
+                    <numberOfGamePointsSaved value="0"/>
+                    <numberOfSetPoints value="0"/>
+                    <numberOfSetPointsSaved value="0"/>
+                    <numberOfMatchPoints value="0"/>
+                    <numberOfMatchPointsSaved value="0"/>
+                    <totalPoints value="73"/>
+                    <totalPointsWon value="36"/>
+                </competitorStatistics>
+            </statistics>
+            <game id="1">
+                <server ns2:competitorRef="p2"/>
+                <winner ns2:competitorRef="p1"/>
+                <gameScore>
+                    <gameCompetitorScore score="Won" ns2:competitorRef="p1" id="BOGUS_ID"/>
+                    <gameCompetitorScore score="0" ns2:competitorRef="p2" id="BOGUS_ID"/>
+                </gameScore>
+            </game>
+            <game id="2">
+                <server ns2:competitorRef="p1"/>
+                <winner ns2:competitorRef="p1"/>
+                <gameScore>
+                    <gameCompetitorScore score="Won" ns2:competitorRef="p1" id="BOGUS_ID"/>
+                    <gameCompetitorScore score="30" ns2:competitorRef="p2" id="BOGUS_ID"/>
+                </gameScore>
+            </game>
+            <game id="3">
+                <server ns2:competitorRef="p2"/>
+                <winner ns2:competitorRef="p1"/>
+                <gameScore>
+                    <gameCompetitorScore score="Won" ns2:competitorRef="p1" id="BOGUS_ID"/>
+                    <gameCompetitorScore score="0" ns2:competitorRef="p2" id="BOGUS_ID"/>
+                </gameScore>
+            </game>
+            <game id="4">
+                <server ns2:competitorRef="p1"/>
+                <winner ns2:competitorRef="p1"/>
+                <gameScore>
+                    <gameCompetitorScore score="Won" ns2:competitorRef="p1" id="BOGUS_ID"/>
+                    <gameCompetitorScore score="15" ns2:competitorRef="p2" id="BOGUS_ID"/>
+                </gameScore>
+            </game>
+            <game id="5">
+                <server ns2:competitorRef="p2"/>
+                <winner ns2:competitorRef="p1"/>
+                <gameScore>
+                    <gameCompetitorScore score="Won" ns2:competitorRef="p1" id="BOGUS_ID"/>
+                    <gameCompetitorScore score="15" ns2:competitorRef="p2" id="BOGUS_ID"/>
+                </gameScore>
+            </game>
+            <game id="6">
+                <server ns2:competitorRef="p1"/>
+                <winner ns2:competitorRef="p2"/>
+                <gameScore>
+                    <gameCompetitorScore score="15" ns2:competitorRef="p1" id="BOGUS_ID"/>
+                    <gameCompetitorScore score="Won" ns2:competitorRef="p2" id="BOGUS_ID"/>
+                </gameScore>
+            </game>
+            <game id="7">
+                <server ns2:competitorRef="p2"/>
+                <winner ns2:competitorRef="p2"/>
+                <gameScore>
+                    <gameCompetitorScore score="30" ns2:competitorRef="p1" id="BOGUS_ID"/>
+                    <gameCompetitorScore score="Won" ns2:competitorRef="p2" id="BOGUS_ID"/>
+                </gameScore>
+            </game>
+            <game id="8">
+                <server ns2:competitorRef="p1"/>
+                <winner ns2:competitorRef="p2"/>
+                <gameScore>
+                    <gameCompetitorScore score="30" ns2:competitorRef="p1" id="BOGUS_ID"/>
+                    <gameCompetitorScore score="Won" ns2:competitorRef="p2" id="BOGUS_ID"/>
+                </gameScore>
+            </game>
+            <game id="9">
+                <server ns2:competitorRef="p2"/>
+                <winner ns2:competitorRef="p2"/>
+                <gameScore>
+                    <gameCompetitorScore score="40" ns2:competitorRef="p1" id="BOGUS_ID"/>
+                    <gameCompetitorScore score="Won" ns2:competitorRef="p2" id="BOGUS_ID"/>
+                </gameScore>
+            </game>
+            <game id="10">
+                <server ns2:competitorRef="p1"/>
+                <winner ns2:competitorRef="p2"/>
+                <gameScore>
+                    <gameCompetitorScore score="40" ns2:competitorRef="p1" id="BOGUS_ID"/>
+                    <gameCompetitorScore score="Won" ns2:competitorRef="p2" id="BOGUS_ID"/>
+                </gameScore>
+            </game>
+            <game id="11">
+                <server ns2:competitorRef="p2"/>
+                <winner ns2:competitorRef="p2"/>
+                <gameScore>
+                    <gameCompetitorScore score="30" ns2:competitorRef="p1" id="BOGUS_ID"/>
+                    <gameCompetitorScore score="Won" ns2:competitorRef="p2" id="BOGUS_ID"/>
+                </gameScore>
+            </game>
+            <game id="12">
+                <server ns2:competitorRef="p1"/>
+                <winner ns2:competitorRef="p2"/>
+                <gameScore>
+                    <gameCompetitorScore score="30" ns2:competitorRef="p1" id="BOGUS_ID"/>
+                    <gameCompetitorScore score="Won" ns2:competitorRef="p2" id="BOGUS_ID"/>
+                </gameScore>
+            </game>
+        </set>
+        <set id="2">
+            <counterScore>
+                <counterCompetitorScore score="0" ns2:competitorRef="p1" id="BOGUS_ID"/>
+                <counterCompetitorScore score="2" ns2:competitorRef="p2" id="BOGUS_ID"/>
+            </counterScore>
+            <statistics>
+                <competitorStatistics ns2:competitorRef="p1" id="BOGUS_ID">
+                    <numberOfAces value="0"/>
+                    <numberOfDoubleFaults value="1"/>
+                    <numberOfServicePoints value="6"/>
+                    <numberOfServicePointsWon value="2"/>
+                    <numberOfBreakPoints value="0"/>
+                    <numberOfBreakPointsWon value="0"/>
+                    <numberOfGamePoints value="0"/>
+                    <numberOfGamePointsSaved value="0"/>
+                    <numberOfSetPoints value="0"/>
+                    <numberOfSetPointsSaved value="0"/>
+                    <numberOfMatchPoints value="0"/>
+                    <numberOfMatchPointsSaved value="0"/>
+                    <totalPoints value="13"/>
+                    <totalPointsWon value="4"/>
+                </competitorStatistics>
+                <competitorStatistics ns2:competitorRef="p2" id="BOGUS_ID">
+                    <numberOfAces value="0"/>
+                    <numberOfDoubleFaults value="0"/>
+                    <numberOfServicePoints value="7"/>
+                    <numberOfServicePointsWon value="5"/>
+                    <numberOfBreakPoints value="2"/>
+                    <numberOfBreakPointsWon value="1"/>
+                    <numberOfGamePoints value="0"/>
+                    <numberOfGamePointsSaved value="0"/>
+                    <numberOfSetPoints value="0"/>
+                    <numberOfSetPointsSaved value="0"/>
+                    <numberOfMatchPoints value="0"/>
+                    <numberOfMatchPointsSaved value="0"/>
+                    <totalPoints value="13"/>
+                    <totalPointsWon value="9"/>
+                </competitorStatistics>
+            </statistics>
+            <game id="1">
+                <server ns2:competitorRef="p2"/>
+                <winner ns2:competitorRef="p2"/>
+                <gameScore>
+                    <gameCompetitorScore score="15" ns2:competitorRef="p1" id="BOGUS_ID"/>
+                    <gameCompetitorScore score="Won" ns2:competitorRef="p2" id="BOGUS_ID"/>
+                </gameScore>
+            </game>
+            <game id="2">
+                <server ns2:competitorRef="p1"/>
+                <winner ns2:competitorRef="p2"/>
+                <gameScore>
+                    <gameCompetitorScore score="30" ns2:competitorRef="p1" id="BOGUS_ID"/>
+                    <gameCompetitorScore score="Won" ns2:competitorRef="p2" id="BOGUS_ID"/>
+                </gameScore>
+            </game>
+            <game id="3">
+                <server ns2:competitorRef="p2"/>
+                <gameScore>
+                    <gameCompetitorScore score="15" ns2:competitorRef="p1" id="BOGUS_ID"/>
+                    <gameCompetitorScore score="15" ns2:competitorRef="p2" id="BOGUS_ID"/>
+                </gameScore>
+            </game>
+        </set>
+    </match>
+</ns4:tennisMessage>

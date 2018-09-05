@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<incidentUpdate xmlns="http://caerus.williamhill.com/scoreboards/incident" id="9b43447e-378c-417b-80aa-583900a5eb74"
+                manualControl="N" source="Running Ball" timeStamp="2017-10-08T20:32:38.773+00:00">
+    <sport name="Football">
+        <event id="11663827" name="Czech Rep. vs San Marino" sequence="30" startTime="2017-10-08T18:45:00.000+00:00"
+               type="World Cup 2018 - European Qualifiers">
+            <footballSummary>
+                <team corners="11" freekicks="6" goals="5" name="Czech Rep." penalties="0" red_cards="0"
+                      shots_on_target="16" shots_on_woodwork="0" side="Home" throw_ins="30" yellow_cards="0"/>
+                <team corners="1" freekicks="23" goals="0" name="San Marino" penalties="0" red_cards="0"
+                      shots_on_target="5" shots_on_woodwork="0" side="Away" throw_ins="16" yellow_cards="1"/>
+            </footballSummary>
+            <incident operation="Add">
+                <id>d35ac727-ac67-11e7-a8c8-0017a477140c</id>
+                <type>Throw In</type>
+                <period>2nd Half</period>
+                <time>5493</time>
+                <scope>Home</scope>
+                <timeStamp>2017-10-08T20:32:38.773+00:00</timeStamp>
+            </incident>
+        </event>
+    </sport>
+    <guid key="MESSAGE_ID" value="1e79bc86-dbcb-4024-9a24-b8f2724e1201"/>
+    <guid key="TIMING_METADATA_ID" value="feedId=5,externalMatchId=872135"/>
+    <guid key="ROUTING_METADATA_ID" value="externalMatchId=872135,caerusMatchId=d9e41f6e-931d-11e7-97bd-0017a477140c"/>
+</incidentUpdate>
